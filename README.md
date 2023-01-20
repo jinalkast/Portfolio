@@ -3,12 +3,12 @@ My personal portfolio
 
 <!-- How to use -->
 ## Instructions 📋
-visit 
+Visit 
 
 <!-- Tools -->
 ## Tools 🛠 ##
 
-Made in JavaScript, HTML, and CSS using Visual Studio
+Made in JavaScript, HTML, and CSS using Visual Studio Code
 
 <!-- Creds -->
 ## Notes 📝 ##
