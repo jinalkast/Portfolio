@@ -3,7 +3,7 @@ My personal portfolio
 
 <!-- How to use -->
 ## Instructions 📋
-Visit 
+Visit [jinalk.netlify.app](https://jinalk.netlify.app)
 
 <!-- Tools -->
 ## Tools 🛠 ##
